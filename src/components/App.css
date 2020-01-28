@@ -1,0 +1,12 @@
+.container {
+	margin-top: 70px;
+}
+.todo {
+	user-select: none;
+	margin: 0;
+	cursor: pointer;
+}
+
+.done {
+	text-decoration: line-through;
+}
